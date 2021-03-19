@@ -9,3 +9,7 @@ build
 venv
 Pointnet2_PyTorch
 python-pcl*
+pvn3d_requirements/
+trained_checkpoints/
+train_log/
+
